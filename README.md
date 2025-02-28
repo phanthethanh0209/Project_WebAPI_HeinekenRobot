@@ -1,7 +1,7 @@
-# Heineken Robot  
+# TheThanh_WebAPI_RobotHeineken
 
 ## 📌 Giới thiệu
-Heineken Robot là một Web API được phát triển bằng **ASP.NET Core 6** nhằm quản lý hệ thống **robot và máy tái chế** trong các chiến dịch marketing của Heineken. API hỗ trợ quản lý thông tin robot, địa điểm, phần thưởng, lịch sử tái chế và nhiều chức năng khác.
+TheThanh_WebAPI_RobotHeineken là một Web API được phát triển bằng **ASP.NET Core 6** nhằm quản lý hệ thống **robot và máy tái chế** trong các chiến dịch marketing của Heineken. API hỗ trợ quản lý thông tin robot, địa điểm, phần thưởng, lịch sử tái chế và nhiều chức năng khác.
 
 ## 🚀 Công nghệ sử dụng
 - **.NET 6 (ASP.NET Core Web API)**
@@ -28,14 +28,14 @@ TheThanh_WebAPI_RobotHeineken/
 
 ## 🔑 Chức năng chính
 ✅ **Quản lý thiết bị**: Robot & Máy tái chế (Thêm, sửa, xóa, danh sách)  
-✅ **Quản lý địa điểm**: Khu vực, thành phố, vị trí đặt thiết bị  
-✅ **Hệ thống phần thưởng**: Quản lý quà tặng
-✅ **Xác thực & Phân quyền**: JWT Authentication, Custome Authorization  
+✅ **Quản lý địa điểm**: Khu vực, thành phố, vị trí đặt thiết bị
+✅ **Hệ thống phần thưởng**: Quản lý quà tặng 
+✅ **Xác thực & Phân quyền**: JWT Authentication, Custom Authorization  
 ✅ **Theo dõi lịch sử**: Ghi nhận lịch sử tái chế, quà tặng đã trao  
 
 ## 🔧 Hướng dẫn cài đặt
 ### 1️⃣ Clone repository
-```sh
+```console
 git clone https://github.com/phanthethanh0209/Project_WebAPI_HeinekenRobot.git
 cd TheThanh_WebAPI_RobotHeineken
 ```
@@ -46,15 +46,19 @@ cd TheThanh_WebAPI_RobotHeineken
   "DefaultConnection": "Server=YOUR_SERVER;Database=HeinekenRobotDB;User Id=YOUR_USER;Password=YOUR_PASSWORD;"
 }
 ```
-- Chạy migration để tạo database:
-```sh
-dotnet ef database update
+- Mở **Package Manager Console** (Tools > NuGet Package Manager > Package Manager Console) và chạy lệnh sau để tạo cơ sở dữ liệu:
+```powershell
+Update-Database
+```
+- Nếu chưa có migration, tạo migration đầu tiên:
+```powershell
+Add-Migration InitialCreate
+```
+- Sau đó, cập nhật database:
+```powershell
+Update-Database
 ```
 
-### 3️⃣ Chạy ứng dụng
-```sh
-dotnet run
-```
 Ứng dụng sẽ chạy trên **https://localhost:5001** hoặc **http://localhost:5000**.
 
 ## 📖 API Documentation
