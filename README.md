@@ -15,22 +15,26 @@ Heineken Robot là một Web API được phát triển bằng **ASP.NET Core 6*
 ## 📂 Cấu trúc thư mục
 ```
 TheThanh_WebAPI_RobotHeineken/
-│-- Controllers/         # Xử lý request và trả về response cho client
-│-- Data/               # DbContext và cấu hình EF Core
-│-- DTOs/               # Data Transfer Objects
-│-- Models/             # Các entity trong database
-│-- Repositories/       # Repository Pattern
-│-- Services/           # Chứa logic nghiệp vụ
-│-- Validators/         # Kiểm tra dữ liệu đầu vào
-│-- Program.cs          # Cấu hình ứng dụng
-│-- appsettings.json    # Cấu hình database và JWT
+│-- Authorization/       # Xác thực và phân quyền
+│-- Controllers/         # Xử lý yêu cầu và trả về phản hồi cho client
+│-- DTO/                 # Data Transfer Objects
+│-- Data/                # DbContext và cấu hình Entity Framework Core
+│-- Mapper/              # Cấu hình AutoMapper
+│-- Migrations/          # Lưu trữ các migration của cơ sở dữ liệu
+│-- Properties/          # Cấu hình dự án
+│-- Repository/          # Repository Pattern
+│-- Services/            # Chứa logic nghiệp vụ
+│-- Validation/          # Kiểm tra dữ liệu đầu vào
+│-- Program.cs           # Cấu hình ứng dụng
+│-- TheThanh_WebAPI_RobotHeineken.csproj  # File cấu hình dự án
+│-- appsettings.json     # Cấu hình cơ sở dữ liệu và JWT
 ```
 
 ## 🔑 Chức năng chính
 ✅ **Quản lý thiết bị**: Robot & Máy tái chế (Thêm, sửa, xóa, danh sách)  
 ✅ **Quản lý địa điểm**: Khu vực, thành phố, vị trí đặt thiết bị  
 ✅ **Hệ thống phần thưởng**: Quản lý quà tặng  
-✅ **Xác thực & Phân quyền**: JWT Authentication, Custom Authorization  
+✅ **Xác thực & Phân quyền**: JWT Authentication, Refresh Token, Custom Authorization  
 ✅ **Theo dõi lịch sử**: Ghi nhận lịch sử tái chế, quà tặng đã trao  
 
 ## 🔧 Hướng dẫn cài đặt
@@ -64,6 +68,7 @@ Update-Database
 ## 📖 API Documentation
 Sử dụng **Swagger** để xem tài liệu API:
 - Truy cập: [http://localhost:5000/swagger](http://localhost:5000/swagger)
+Hoặc sử dụng Postman để kiểm thử API
 
 ## 🛠 Đóng góp
 Nếu bạn muốn đóng góp, hãy tạo **Pull Request** hoặc báo lỗi trong mục **Issues** của GitHub.
