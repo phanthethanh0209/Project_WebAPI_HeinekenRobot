@@ -1,4 +1,4 @@
-﻿namespace TheThanh_WebAPI_RobotHeineken.Models
+﻿namespace TheThanh_WebAPI_RobotHeineken.DTO
 {
     public class TokenDTO
     {

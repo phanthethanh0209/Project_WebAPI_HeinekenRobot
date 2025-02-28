@@ -1,5 +1,5 @@
 ﻿using FluentValidation;
-using TheThanh_WebAPI_RobotHeineken.Models;
+using TheThanh_WebAPI_RobotHeineken.DTO;
 using TheThanh_WebAPI_RobotHeineken.Repository;
 
 namespace TheThanh_WebAPI_RobotHeineken.Validation

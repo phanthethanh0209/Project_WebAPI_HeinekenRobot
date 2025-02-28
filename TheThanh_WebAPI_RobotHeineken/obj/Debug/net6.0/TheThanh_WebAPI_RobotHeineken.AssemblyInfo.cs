@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheThanh_WebAPI_RobotHeineken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d967a62e1dff377fff213e7145136f829d70d5e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheThanh_WebAPI_RobotHeineken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheThanh_WebAPI_RobotHeineken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

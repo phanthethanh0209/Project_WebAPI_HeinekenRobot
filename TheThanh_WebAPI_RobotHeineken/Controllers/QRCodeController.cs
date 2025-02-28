@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TheThanh_WebAPI_RobotHeineken.Models;
+using TheThanh_WebAPI_RobotHeineken.DTO;
 using TheThanh_WebAPI_RobotHeineken.Services;
 using static TheThanh_WebAPI_RobotHeineken.Authorization.CustomAuthorizationAttribute;
 

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using TheThanh_WebAPI_RobotHeineken.Data;
-using TheThanh_WebAPI_RobotHeineken.Models;
+using TheThanh_WebAPI_RobotHeineken.DTO;
 
 namespace TheThanh_WebAPI_RobotHeineken.Validation
 {

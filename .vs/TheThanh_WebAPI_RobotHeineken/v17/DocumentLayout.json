@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\validation\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\validation\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\containerfullhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\containerfullhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\createmachinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\createmachinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_robot_heineken\\thethanh_webapi_robotheineken\\project_webapi_heinekenrobot\\thethanh_webapi_robotheineken\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A167F306-ECE2-4461-8490-6B54FA10B7FE}|TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj|solutionrelative:thethanh_webapi_robotheineken\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:40:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:39:18.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Validation\\AuthValidator.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\Validation\\AuthValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Validation\\AuthValidator.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\Validation\\AuthValidator.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:39:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\Data\\MyDBContext.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\Data\\MyDBContext.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:37:36.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:34:42.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MachineDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\MachineDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\MachineDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\MachineDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\MachineDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:34:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\LocationDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\LocationDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\LocationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:34:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:34:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GiftDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\GiftDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\GiftDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\GiftDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\GiftDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:32:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMachineDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\CreateMachineDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\CreateMachineDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\CreateMachineDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\CreateMachineDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:33:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\CreateUserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:33:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainerFullHistoryDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\ContainerFullHistoryDTO.cs",
+              "RelativeDocumentMoniker": "TheThanh_WebAPI_RobotHeineken\\DTO\\ContainerFullHistoryDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\DTO\\ContainerFullHistoryDTO.cs",
+              "RelativeToolTip": "TheThanh_WebAPI_RobotHeineken\\DTO\\ContainerFullHistoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:30:07.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

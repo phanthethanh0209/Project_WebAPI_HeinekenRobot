@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj": {}
+    "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj": {}
   },
   "projects": {
-    "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj": {
+    "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj",
+        "projectUniqueName": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj",
         "projectName": "TheThanh_WebAPI_RobotHeineken",
-        "projectPath": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj",
+        "projectPath": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\TheThanh_WebAPI_RobotHeineken\\obj\\",
+        "outputPath": "D:\\Thực tập Back-end\\Project_Robot_Heineken\\TheThanh_WebAPI_RobotHeineken\\Project_WebAPI_HeinekenRobot\\TheThanh_WebAPI_RobotHeineken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
