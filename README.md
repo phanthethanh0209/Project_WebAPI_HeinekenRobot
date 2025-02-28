@@ -68,7 +68,8 @@ Update-Database
 ## 📖 API Documentation
 Sử dụng **Swagger** để xem tài liệu API:
 - Truy cập: [http://localhost:5000/swagger](http://localhost:5000/swagger)
-Hoặc sử dụng Postman để kiểm thử API
+
+Hoặc sử dụng **Postman** để kiểm thử API
 
 ## 🛠 Đóng góp
 Nếu bạn muốn đóng góp, hãy tạo **Pull Request** hoặc báo lỗi trong mục **Issues** của GitHub.
