@@ -1,7 +1,7 @@
-# TheThanh_WebAPI_RobotHeineken
+# Heineken Robot
 
 ## 📌 Giới thiệu
-TheThanh_WebAPI_RobotHeineken là một Web API được phát triển bằng **ASP.NET Core 6** nhằm quản lý hệ thống **robot và máy tái chế** trong các chiến dịch marketing của Heineken. API hỗ trợ quản lý thông tin robot, địa điểm, phần thưởng, lịch sử tái chế và nhiều chức năng khác.
+Heineken Robot là một Web API được phát triển bằng **ASP.NET Core 6** nhằm quản lý hệ thống **robot và máy tái chế** trong các chiến dịch marketing của Heineken. API hỗ trợ quản lý thông tin robot, địa điểm, phần thưởng, lịch sử tái chế và nhiều chức năng khác.
 
 ## 🚀 Công nghệ sử dụng
 - **.NET 6 (ASP.NET Core Web API)**
@@ -28,8 +28,8 @@ TheThanh_WebAPI_RobotHeineken/
 
 ## 🔑 Chức năng chính
 ✅ **Quản lý thiết bị**: Robot & Máy tái chế (Thêm, sửa, xóa, danh sách)  
-✅ **Quản lý địa điểm**: Khu vực, thành phố, vị trí đặt thiết bị
-✅ **Hệ thống phần thưởng**: Quản lý quà tặng 
+✅ **Quản lý địa điểm**: Khu vực, thành phố, vị trí đặt thiết bị  
+✅ **Hệ thống phần thưởng**: Quản lý quà tặng  
 ✅ **Xác thực & Phân quyền**: JWT Authentication, Custom Authorization  
 ✅ **Theo dõi lịch sử**: Ghi nhận lịch sử tái chế, quà tặng đã trao  
 
