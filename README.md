@@ -11,6 +11,7 @@ Heineken Robot là một Web API được phát triển bằng **ASP.NET Core 6*
 - **JWT Authentication** (Xác thực API)
 - **Swagger UI** (Tài liệu API)
 - **Repository Pattern** (Quản lý dữ liệu)
+- **Validation** (Kiểm tra dữ liệu đầu vào sử dụng Fluent Validation)
 
 ## 📂 Cấu trúc thư mục
 ```
@@ -63,12 +64,8 @@ Add-Migration InitialCreate
 Update-Database
 ```
 
-Ứng dụng sẽ chạy trên **https://localhost:5001** hoặc **http://localhost:5000**.
-
 ## 📖 API Documentation
-Sử dụng **Swagger** để xem tài liệu API:
-- Truy cập: [http://localhost:5000/swagger](http://localhost:5000/swagger)
-
+Sử dụng **Swagger** để xem tài liệu API
 Hoặc sử dụng **Postman** để kiểm thử API
 
 ## 🛠 Đóng góp
